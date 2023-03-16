@@ -1,4 +1,4 @@
-# Python FizzBuzz
+# Python FizzBuzz # Ariel Williams 
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
